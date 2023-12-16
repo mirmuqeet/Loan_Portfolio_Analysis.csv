@@ -1,0 +1,2 @@
+# Loan_Portfolio_Analysis.csv
+This Markdown file provides a comprehensive analysis of a loan portfolio dataset, focusing on default rates and associated risk factors. The analysis covers loan characteristics, duration, purposes, applicant profiles, correlation analysis, risk factors, bivariate analysis, and key parameters for analysis conclusion. The document concludes with inferences and recommendations for lending practices based on the identified risk factors.
